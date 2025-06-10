@@ -2,11 +2,11 @@
 
 🚀 I’m a passionate Full-Stack Developer currently focused on building responsive web apps using the **MERN stack**.
 
-- 🔭 I’m currently working on a **Quiz Game App**, **Restaurant Menu UI**, and learning advanced testing strategies.
-- 🌱 I’m constantly improving my skills in **React.js**, **Node.js**, **Express**, and **MongoDB**.
-- 💡 I love working on innovative tech projects, especially those involving **space**, **IoT**, and **user experience**.
-- 👨‍🎓 I'm an Electronics and Communication Engineer, always blending hardware and software creatively.
-- 🧠 I believe in lifelong learning and building things that make a difference.
+- ✅ Recently completed a dynamic **Quiz Game App** and an intuitive **Restaurant Menu UI**, focusing on usability, responsiveness, and clean architecture.  
+- 🌱 Continuously expanding my skills in **React.js**, **Node.js**, **Express**, and **MongoDB** to become a proficient full-stack developer.  
+- 🚀 Passionate about creating innovative tech solutions, especially in the realms of **space exploration**, **IoT**, and **user-centric design**.  
+- 🎓 An **Electronics and Communication Engineer** who enjoys blending hardware knowledge with modern software practices.  
+- 🧠 A firm believer in **lifelong learning**, always exploring new ideas and building projects that make an impact.
 
 ---
 
@@ -38,6 +38,13 @@
 
 ## 🌌 Favorite Quote
 > _"The cosmos is within us. We are made of star-stuff." — Carl Sagan_
+> *"Empty your mind, be formless, shapeless, like water.  
+> If you put water into a cup, it becomes the cup.  
+> You put water into a bottle, it becomes the bottle.  
+> You put it in a teapot, it becomes the teapot.  
+> Now, water can flow or it can crash.  
+> **Be water, my friend.**"*  
+> — *Bruce Lee*
 
 ---
 
