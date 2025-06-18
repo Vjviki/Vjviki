@@ -51,7 +51,7 @@
 ## 📫 How to reach me
 - 📧 Email: dinovicky1010@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/vigneshviki](https://linkedin.com/in/vigneshviki)
-- 🌍 Portfolio: (https://devnebulaviki.web.app/)
+- 🌍 Portfolio: https://devnebulaviki.web.app/
 
 ---
 
