@@ -13,7 +13,7 @@ I build responsive, interactive, and scalable web applications using the **MERN 
 
 - 🛠 Built **Quiz Game App** & **Restaurant Menu UI** with a focus on usability & performance  
 - 🌱 Growing expertise in **React.js**, **Node.js**, **Express**, and **MongoDB**  
-- 💡 Passionate about **space exploration**, **IoT**, and **human-centered design**  
+- 💡 Passionate about **space exploration**, **IoT**, and **tech**  
 - 🎯 Always learning, always building  
 
 ---
@@ -32,18 +32,6 @@ I build responsive, interactive, and scalable web applications using the **MERN 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Featured Projects  
-
-### 🧠 Quiz Game App  
-🎮 A fun, interactive quiz game with dynamic scoring & responsive design.  
-[🔗 View Project](https://your-project-link.com) | [💻 Code](https://github.com/Vjviki/quiz-game)  
-
-### 🍔 Restaurant Menu UI  
-📋 A responsive and visually appealing restaurant menu interface.  
-[🔗 View Project](https://your-project-link.com) | [💻 Code](https://github.com/Vjviki/restaurant-menu-ui)  
 
 ---
 
