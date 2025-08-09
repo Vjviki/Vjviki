@@ -52,7 +52,7 @@ I build responsive, interactive, and scalable web applications using the **MERN 
 ## 📬 Let’s Connect  
 
 [![Email](https://img.shields.io/badge/Email-dinovicky1010%40gmail.com-red)](mailto:dinovicky1010@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh-blue?logo=linkedin)](https://linkedin.com/in/vigneshviki)  
+[![LinkedIn](https://linkedin.com/in/vignesh-s-290307304)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://devnebulaviki.web.app/)  
 
 ---
