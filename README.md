@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Vignesh Banner](<img width="1024" height="1024" alt="ChatGPT Image Aug 9, 2025, 08_51_01 PM" src="https://github.com/user-attachments/assets/19352da1-de8c-4045-bc70-6878cd7a369a" />) <!-- Replace with your actual banner image link -->
+![Vignesh Banner](https://res.cloudinary.com/df73pocxs/image/upload/v1754753111/ChatGPT_Image_Aug_9_2025_08_51_01_PM_ucivdk.png) <!-- Replace with your actual banner image link -->
 
 # 👋 Hey there, I'm Vignesh!  
 
