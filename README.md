@@ -15,7 +15,7 @@ I build responsive, interactive, and scalable web applications using the **MERN 
 - 🌱 Growing expertise in **React.js**, **Node.js**, **Express**, and **MongoDB**  
 - 🎯 Always learning, always building.
   
-I have a boundless curiosity that spans across diverse fields — from **space exploration**, **archaeology**, **physics**, **chemistry**, and **biology** to **computer science**, **emerging technologies**, **renewable energy**, and **environmental science**.
+I have a boundless curiosity that spans across diverse fields — from **space exploration**, **archaeology**, **classic physics**, **quantum physics**, **chemistry**, and **biology** to **computer science**, **emerging technologies**, **renewable energy**, and **environmental science**.
 
 I’m passionate about exploring ideas, connecting knowledge across disciplines, and creating innovations that make a real-world impact.
 
