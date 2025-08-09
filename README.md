@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Vignesh Banner](https://res.cloudinary.com/df73pocxs/image/upload/v1754753111/ChatGPT_Image_Aug_9_2025_08_51_01_PM_ucivdk.png) <!-- Replace with your actual banner image link -->
+![Vignesh Banner](https://res.cloudinary.com/df73pocxs/image/upload/v1754761892/ezgif.com-optimize_kpop0p.gif) <!-- Replace with your actual banner image link -->
 
 # 👋 Hey there, I'm Vignesh!  
 
