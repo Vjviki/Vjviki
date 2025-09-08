@@ -11,7 +11,7 @@ I build responsive, interactive, and scalable web applications using the **MERN 
 
 ## 🚀 About Me
 
-- 🛠 Built **Quiz Game App** & **Restaurant Menu UI** with a focus on usability & performance  
+- 🛠 Built **Resume Analyzer** with a focus on usability & performance  
 - 🌱 Growing expertise in **React.js**, **Node.js**, **Express**, and **MongoDB**  
 - 🎯 Always learning, always building.
   
